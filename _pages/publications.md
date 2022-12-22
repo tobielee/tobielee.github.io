@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 
 
-[Google Scholar](https://scholar.google.com/citations?user=pcE-ei4AAAAJ&h){:target="_blank"}
+My publications can be found in [Google Scholar](https://scholar.google.com/citations?user=pcE-ei4AAAAJ&h){:target="_blank"}
 
 
 
