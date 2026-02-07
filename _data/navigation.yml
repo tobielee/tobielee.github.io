@@ -4,8 +4,10 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Publications"
     url: /publications/
-  - title: "Food Recipes"
+  - title: "Food recipes"
     url: /food_recipes/
+  - title: "Race record"
+    url: /race_record/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
